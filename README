@@ -1,0 +1,3 @@
+Very simple bash bot to dekarma Desire2Learn when it comes up on any single channel on irc.cat.pdx.edu.
+
+Usage: ./bot.bash <channel> [file containing key]
